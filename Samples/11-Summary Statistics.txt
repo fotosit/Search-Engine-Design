@@ -1,0 +1,8 @@
+
+Frontier Url Count: 232225
+Crawled Url Count: 1000
+Media URL Count: 41
+Broken Link Count: 61
+MultiHit URL Count: 2
+Indexed Word Count: 43765
+Indexed Stemmed Word Count: 35307

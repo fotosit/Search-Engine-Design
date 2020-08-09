@@ -1,0 +1,157 @@
+
+
+Related links for 'pandemic' query:
+
+      Relevance Ratio  URL
+--  -----------------  -----------------------------------------------------------------------------
+0         0.232021     https://en.wikipedia.org/wiki/Portal:Current_events
+1         0.187199     https://en.wikipedia.org/wiki/Impact_of_the_COVID-19_pandemic
+2         0.0879632    https://en.wikipedia.org/wiki/Timeline_of_the_COVID-19_pandemic
+3         0.0868747    https://en.wikipedia.org/wiki/COVID-19_pandemic
+4         0.0472587    https://en.wikivoyage.org/wiki/Main_Page
+5         0.0462872    https://en.wikipedia.org/wiki/Wikipedia's_response_to_the_COVID-19_pandemic
+6         0.0356933    https://en.wikipedia.org/wiki/Wikipedia:In_the_news/Candidates
+7         0.0300971    https://en.wikipedia.org/wiki/COVID-19_pandemic_by_country_and_territory
+8         0.0266355    https://en.wikipedia.org/wiki/Portal:Coronavirus_disease_2019
+9         0.0242306    https://wikimania.wikimedia.org/wiki/Wikimania
+10        0.0169026    https://en.wikipedia.org#mw-head
+11        0.0168026    https://en.wikipedia.org#cite_note-LER_students_write_for_WP_1-339
+12        0.0166783    https://en.wikipedia.org/w/index.php?title=Main_Page&printable=yes
+13        0.0161606    https://commons.wikimedia.org/wiki/Main_Page
+14        0.015774     https://en.wikipedia.org/w/index.php?title=Main_Page&oldid=969106986
+15        0.0135753    https://en.wikipedia.org/wiki/Coronavirus_disease_2019
+16        0.0126146    https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome_coronavirus_2
+17        0.011156     https://en.wikipedia.org/wiki/List_of_most_popular_websites
+18        0.01069      https://en.wikipedia.org/wiki/COVID-19_testing
+19        0.00821225   https://en.wikipedia.org/wiki/Wikipedia
+20        0.0082099    https://en.wikipedia.org/wiki/Bias_in_Wikipedia
+21        0.00755907   https://en.wikipedia.org/wiki/Persian_Wikipedia
+22        0.00680015   https://en.wikipedia.org/wiki/Logistic_function
+23        0.00547073   https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Medicine
+24        0.0054157    https://en.wikipedia.org/wiki/Broken_Wings_(ballet)
+25        0.00285473   https://en.wikipedia.org/wiki/2020_Beirut_explosions
+26        0.00285452   https://en.wikipedia.org/wiki/Ram_Mandir,_Ayodhya
+27        0.00263368   https://en.wikipedia.org/wiki/List_of_deaths_due_to_COVID-19
+28        0.002456     https://en.wikipedia.org/wiki/History_of_Wikipedia
+29        0.00243846   https://en.wikipedia.org/wiki/Nature_(journal)
+30        0.00231846   https://en.wikipedia.org/wiki/Portal:Biography
+31        0.00178667   https://en.wikipedia.org/wiki/NBC
+32        0.0017596    https://en.wikipedia.org/wiki/Italy
+33        0.0016489    https://en.wikipedia.org/wiki/Narendra_Modi
+34        0.00160663   https://en.wikipedia.org/wiki/Fake_news
+35        0.00146061   https://en.wikipedia.org/wiki/George_W._Bush
+36        0.00145312   https://en.wikipedia.org/wiki/Rock_music
+37        0.00136155   https://en.wikipedia.org/wiki/Amsterdam
+38        0.00107534   https://en.wikipedia.org/wiki/New_York_(state)
+39        0.000676565  https://en.wikipedia.org/wiki/YouTube
+40        0.000583057  https://en.wikipedia.org/wiki/China
+41        0.000580501  https://en.wikipedia.org/wiki/Croatia
+
+
+
+Related links for 'george floyd' query:
+
+      Relevance Ratio  URL
+--  -----------------  ------------------------------------------------------------
+0          0.0878557   https://en.wikipedia.org/wiki/George_W._Bush
+1          0.0510741   https://en.wikipedia.org/wiki/Death_of_Olaseni_Lewis
+2          0.0362426   https://en.wikipedia.org/wiki/PROTECT_IP_Act
+3          0.0325606   https://en.wikipedia.org/wiki/Synthetic_DNA
+4          0.0189691   https://en.wikipedia.org/wiki/Rock_band
+5          0.0139999   https://en.wikipedia.org/wiki/Concertgebouw
+6          0.0107068   https://en.wikipedia.org/wiki/Georgetown_University
+7          0.0103456   https://en.wikipedia.org/wiki/The_New_York_Times
+8          0.00968328  https://en.wikipedia.org/wiki/Stop_Online_Piracy_Act
+9          0.00799024  https://en.wikipedia.org/wiki/NBC
+10         0.00736504  https://en.wikipedia.org/wiki/Rock_music
+11         0.00633649  https://en.wikipedia.org/wiki/Reddit
+12         0.00518239  https://en.wikipedia.org/wiki/List_of_deaths_due_to_COVID-19
+13         0.00499639  https://en.wikipedia.org/wiki/Template_talk:Did_you_know
+14         0.00428283  https://en.wikipedia.org/wiki/COVID-19_pandemic
+
+
+
+Related links for 'spacex' query:
+
+      Relevance Ratio  URL
+--  -----------------  --------------------------------------------------------------
+0          0.114304    https://en.wikipedia.org/wiki/Beresheet
+1          0.017191    https://en.wikipedia.org/wiki/Vanderbilt_University
+2          0.0117549   https://en.wikipedia.org/wiki/Wikipedia:In_the_news/Candidates
+3          0.0101156   https://en.wikipedia.org/wiki/Linux
+4          0.00765345  https://en.wikipedia.org/wiki/60_Minutes
+5          0.00523717  https://en.wikipedia.org/wiki/Moon
+
+
+
+Related links for 'nasa' query:
+
+      Relevance Ratio  URL
+--  -----------------  -------------------------------------------------------------------------------
+0          0.122534    https://en.wikipedia.org/wiki/Life_on_Mars
+1          0.0989826   https://en.wikipedia.org/wiki/Moon
+2          0.0933331   https://en.wikipedia.org/wiki/Asteroid
+3          0.076605    https://en.wikipedia.org/wiki/Allan_Hills_84001
+4          0.0628674   https://en.wikipedia.org/wiki/Beresheet
+5          0.0382173   https://en.wikipedia.org/wiki/Meteorite
+6          0.0372233   https://en.wikipedia.org/wiki/Powerset_(company)
+7          0.034166    https://en.wikipedia.org/wiki/Wikimedia_Commons
+8          0.0257866   https://en.wikipedia.org/wiki/Vanderbilt_University
+9          0.0192967   https://en.wikipedia.org/wiki/Help:Your_first_article
+10         0.0146909   https://en.wikipedia.org/wiki/Stephen_Colbert
+11         0.0123785   https://en.wikipedia.org/wiki/Palo_Alto_Research_Center
+12         0.0123129   https://en.wikipedia.org/wiki/COVID-19_pandemic
+13         0.0109118   https://en.wikipedia.org/wiki/Washington_University
+14         0.00940395  https://en.wikipedia.org/wiki/Wikipedia:In_the_news/Candidates
+15         0.00925507  https://en.wikipedia.org/wiki/Ashburn,_Virginia
+16         0.00818786  https://en.wikipedia.org/wiki/Free_software
+17         0.00704696  https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences
+18         0.00606936  https://en.wikipedia.org/wiki/Linux
+19         0.00348758  https://en.wikipedia.org/wiki/DirecTV
+20         0.00203078  https://en.wikipedia.org/wiki/Virginia
+21         0           https://en.wikipedia.org/wiki/Portal:Technology
+
+
+
+Related links for 'turkey' query:
+
+      Relevance Ratio  URL
+--  -----------------  ---------------------------------------------------------------------------
+0         0.563733     https://en.wikipedia.org/wiki/Block_of_Wikipedia_in_Turkey
+1         0.126428     https://en.wikipedia.org/wiki/Censorship_of_Wikipedia
+2         0.0361165    https://en.wikipedia.org/wiki/COVID-19_pandemic_by_country_and_territory
+3         0.0356311    https://en.wikipedia.org/wiki/Portal:Coronavirus_disease_2019
+4         0.0330974    https://en.wikipedia.org/wiki/Wikipedia:Selected_anniversaries/August
+5         0.0268635    https://en.wikipedia.org/wiki/List_of_deaths_due_to_COVID-19
+6         0.026725     https://en.wikipedia.org/wiki/COVID-19_testing
+7         0.021785     https://en.wikipedia.org/wiki/Online_petition_on_Wikipedia_Muhammad_article
+8         0.0172524    https://en.wikipedia.org/wiki/YouTube
+9         0.0167241    https://en.wikipedia.org/wiki/English_Wikipedia
+10        0.0153241    https://en.wikipedia.org/wiki/Portmanteau
+11        0.0135217    https://en.wikipedia.org/wiki/Pakistan
+12        0.0125046    https://en.wikipedia.org/wiki/Arabic_Wikipedia
+13        0.012254     https://en.wikipedia.org/wiki/Amsterdam
+14        0.0106558    https://en.wikipedia.org/wiki/Wikipedia:Probation
+15        0.0102217    https://en.wikipedia.org/wiki/D'Arcy_Carden
+16        0.00974658   https://en.wikiquote.org/wiki/Main_Page
+17        0.00891503   https://en.wikipedia.org/wiki/Soap_opera
+18        0.00856318   https://en.wikipedia.org/wiki/2010
+19        0.00787738   https://en.wikipedia.org/wiki/Democracy
+20        0.00769533   https://en.wikipedia.org/wiki/Georgetown_University
+21        0.00742698   https://en.wikipedia.org/wiki/Sexism
+22        0.00736801   https://en.wikipedia.org/wiki/History_of_Wikipedia
+23        0.00649878   https://en.wikipedia.org/wiki/Academia
+24        0.00619249   https://en.wikipedia.org/wiki/Eurasian_crag_martin
+25        0.00580658   https://en.wikipedia.org/wiki/The_Harvard_Crimson
+26        0.00492735   https://en.wikipedia.org/wiki/Wikipedia
+27        0.00492594   https://en.wikipedia.org/wiki/Bias_in_Wikipedia
+28        0.00326595   https://en.wikipedia.org/wiki/North_America
+29        0.00324282   https://en.wikipedia.org/wiki/World_War_II
+30        0.00322603   https://en.wikipedia.org/wiki/New_York_(state)
+31        0.00281655   https://en.wikipedia.org/wiki/Muhammad
+32        0.00239673   https://en.wikipedia.org/wiki/CBS
+33        0.00224759   https://en.wikipedia.org/wiki/Apple_Inc.
+34        0.00205359   https://en.wikipedia.org/wiki/Nuclear_weapon
+35        0.00160663   https://en.wikipedia.org/wiki/Fake_news
+36        0.000923653  https://en.wikipedia.org/wiki/Same-sex_marriage
+

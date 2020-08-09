@@ -1,0 +1,2 @@
+https://en.wikipedia.org#mw-head 1
+https://en.wikipedia.org#searchInput 1
